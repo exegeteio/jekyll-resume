@@ -1,0 +1,11 @@
+- place: Acme Software
+  role: Senior Developer
+  stack:
+    - Jekyll
+    - Ruby
+- place: Generic Software
+  role: Developer
+  stack:
+    - Rails
+    - Ruby
+    - PostgreSQL
